@@ -18,34 +18,30 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Testing Docs # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Quality Assurance # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll page for technical writing.
+  Documentation for testing and QA process.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://pietroargal.github.io"
 
 github:
-  username: github_username # change to your github username
-
-twitter:
-  username: twitter_username # change to your twitter username
+  username: github_pietroargal # change to your github username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Pietro Aramburú Gallardo
+  email: pietromauag@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://github.com/pietroargal # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.facebook.com/pietroag
+    - https://www.linkedin.com/in/pietromag
 
 google_site_verification: # fill in to your verification string
 
@@ -77,10 +73,10 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: https://avatars.githubusercontent.com
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /u/31112762?s=400&u=637087579ac432732e9cb2b053d7722ee049cc30&v=4
 
 # boolean type, the global switch for TOC in posts.
 toc: true
