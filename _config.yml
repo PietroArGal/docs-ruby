@@ -26,6 +26,7 @@ description: >- # used by seo meta and the atom feed
   Documentation for testing and QA process.
 
 meta: Quality Assurance & Testing Docs - PietroMag
+brief: Rights reserved.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://pietroargal.github.io"
