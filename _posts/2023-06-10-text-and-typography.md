@@ -1,7 +1,7 @@
 ---
 title: Text and Typography
 author: PietroMag
-date: 2023-06-11 11:33:00 +0800
+date: 2023-06-10 11:33:00 +0800
 categories: [Web, Demo]
 tags: [typography]
 pin: true
