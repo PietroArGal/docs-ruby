@@ -1,6 +1,6 @@
 ---
 title: Text and Typography
-author: cotes
+author: PietroMag
 date: 2023-06-11 11:33:00 +0800
 categories: [Web, Demo]
 tags: [typography]
