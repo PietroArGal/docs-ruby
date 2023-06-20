@@ -1,7 +1,7 @@
 ---
-title: Api Testing
+title: Android ADB
 author: PietroMag
-date: 2023-06-11 01:34:00 +0800
+date: 2023-06-17 01:34:00 +0800
 categories: [Android, ADB]
 tags: [ android, testing, mobile]
 pin: true
@@ -10,7 +10,7 @@ mermaid: true
 image:
   path: https://repository-images.githubusercontent.com/175850447/2d1f6b00-ddcd-11eb-8fee-d712ead3f517
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
-  alt: Api Rest Testing
+  alt: Android ADB
 ---
 
 This post is to show [**ANDROID TESTING**](https://en.wikipedia.org/wiki/API) with  [**ADB**](<https://jsonplaceholder.typicode.com>).
