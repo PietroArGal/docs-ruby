@@ -2,7 +2,7 @@
 title: Bible Of Testing
 author: PietroMag
 date: 2023-06-16 01:34:00 +0800
-categories: [Testing]
+categories: [Testing, Bible]
 tags: [testing, automation, manual]
 pin: true
 math: true
